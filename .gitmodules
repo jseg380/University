@@ -1,0 +1,18 @@
+[submodule "Gestion-marcas-atletismo"]
+	path = Gestion-marcas-atletismo
+	url = git@github.com:jseg380/Gestion-marcas-atletismo.git
+[submodule "Civitas"]
+	path = Civitas
+	url = git@github.com:jseg380/Civitas.git
+[submodule "PDOO-Java"]
+	path = PDOO-Java
+	url = git@github.com:jseg380/PDOO-Java.git
+[submodule "PDOO-Ruby"]
+	path = PDOO-Ruby
+	url = git@github.com:jseg380/PDOO-Ruby.git
+[submodule "Estructuras-datos"]
+	path = Estructuras-datos
+	url = git@github.com:jseg380/Estructuras-datos.git
+[submodule "Inteligencia-artificial"]
+	path = Inteligencia-artificial
+	url = git@github.com:jseg380/Inteligencia-artificial.git
