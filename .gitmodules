@@ -16,3 +16,6 @@
 [submodule "Inteligencia-artificial"]
 	path = Inteligencia-artificial
 	url = git@github.com:jseg380/Inteligencia-artificial.git
+[submodule "Informatica-grafica"]
+	path = Informatica-grafica
+	url = git@github.com:jseg380/Informatica-grafica.git
