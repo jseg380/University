@@ -22,3 +22,6 @@
 [submodule "Galactic-Pod-Racing"]
 	path = Galactic-Pod-Racing
 	url = git@github.com:jseg380/Galactic-Pod-Racing.git
+[submodule "Metodologia-programacion"]
+	path = Metodologia-programacion
+	url = git@github.com:jseg380/Metodologia-programacion.git
