@@ -19,3 +19,6 @@
 [submodule "Informatica-grafica"]
 	path = Informatica-grafica
 	url = git@github.com:jseg380/Informatica-grafica.git
+[submodule "Galactic-Pod-Racing"]
+	path = Galactic-Pod-Racing
+	url = git@github.com:jseg380/Galactic-Pod-Racing.git
