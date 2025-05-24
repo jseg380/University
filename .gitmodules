@@ -1,27 +1,27 @@
 [submodule "Gestion-marcas-atletismo"]
 	path = Gestion-marcas-atletismo
-	url = git@github.com:jseg380/Gestion-marcas-atletismo.git
+	url = https://github.com/jseg380/Gestion-marcas-atletismo
 [submodule "Civitas"]
 	path = Civitas
-	url = git@github.com:jseg380/Civitas.git
+	url = https://github.com/jseg380/Civitas
 [submodule "PDOO-Java"]
 	path = PDOO-Java
-	url = git@github.com:jseg380/PDOO-Java.git
+	url = https://github.com/jseg380/PDOO-Java
 [submodule "PDOO-Ruby"]
 	path = PDOO-Ruby
-	url = git@github.com:jseg380/PDOO-Ruby.git
+	url = https://github.com/jseg380/PDOO-Ruby
 [submodule "Estructuras-datos"]
 	path = Estructuras-datos
-	url = git@github.com:jseg380/Estructuras-datos.git
+	url = https://github.com/jseg380/Estructuras-datos
 [submodule "Inteligencia-artificial"]
 	path = Inteligencia-artificial
-	url = git@github.com:jseg380/Inteligencia-artificial.git
+	url = https://github.com/jseg380/Inteligencia-artificial
 [submodule "Informatica-grafica"]
 	path = Informatica-grafica
-	url = git@github.com:jseg380/Informatica-grafica.git
+	url = https://github.com/jseg380/Informatica-grafica
 [submodule "Galactic-Pod-Racing"]
 	path = Galactic-Pod-Racing
-	url = git@github.com:jseg380/Galactic-Pod-Racing.git
+	url = https://github.com/jseg380/Galactic-Pod-Racing
 [submodule "Metodologia-programacion"]
 	path = Metodologia-programacion
-	url = git@github.com:jseg380/Metodologia-programacion.git
+	url = https://github.com/jseg380/Metodologia-programacion
