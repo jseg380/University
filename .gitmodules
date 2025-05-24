@@ -1,27 +1,27 @@
 [submodule "Gestion-marcas-atletismo"]
-	path = Gestion-marcas-atletismo
+	path = 2021-2022/semester-2/Gestion-marcas-atletismo
 	url = https://github.com/jseg380/Gestion-marcas-atletismo
+[submodule "Metodologia-programacion"]
+	path = 2021-2022/semester-2/Metodologia-programacion
+	url = https://github.com/jseg380/Metodologia-programacion
 [submodule "Civitas"]
-	path = Civitas
+	path = 2022-2023/semester-1/Civitas
 	url = https://github.com/jseg380/Civitas
 [submodule "PDOO-Java"]
-	path = PDOO-Java
+	path = 2022-2023/semester-1/PDOO-Java
 	url = https://github.com/jseg380/PDOO-Java
 [submodule "PDOO-Ruby"]
-	path = PDOO-Ruby
+	path = 2022-2023/semester-1/PDOO-Ruby
 	url = https://github.com/jseg380/PDOO-Ruby
 [submodule "Estructuras-datos"]
-	path = Estructuras-datos
+	path = 2022-2023/semester-1/Estructuras-datos
 	url = https://github.com/jseg380/Estructuras-datos
 [submodule "Inteligencia-artificial"]
-	path = Inteligencia-artificial
+	path = 2022-2023/semester-2/Inteligencia-artificial
 	url = https://github.com/jseg380/Inteligencia-artificial
 [submodule "Informatica-grafica"]
-	path = Informatica-grafica
+	path = 2023-2024/semester-1/Informatica-grafica
 	url = https://github.com/jseg380/Informatica-grafica
 [submodule "Galactic-Pod-Racing"]
-	path = Galactic-Pod-Racing
+	path = 2023-2024/semester-2/Galactic-Pod-Racing
 	url = https://github.com/jseg380/Galactic-Pod-Racing
-[submodule "Metodologia-programacion"]
-	path = Metodologia-programacion
-	url = https://github.com/jseg380/Metodologia-programacion
