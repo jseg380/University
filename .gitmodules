@@ -25,3 +25,18 @@
 [submodule "2023-2024/semester-2/Galactic-Pod-Racing"]
 	path = 2023-2024/semester-2/Galactic-Pod-Racing
 	url = https://github.com/jseg380/Galactic-Pod-Racing
+[submodule "2024-2025/semester-2/Sistemas-cooperativos-y-gestion-de-contenidos"]
+	path = 2024-2025/semester-2/Sistemas-cooperativos-y-gestion-de-contenidos
+	url = https://github.com/jseg380/Sistemas-cooperativos-y-gestion-de-contenidos
+[submodule "2024-2025/semester-1/Desarrollo-basado-agentes"]
+	path = 2024-2025/semester-1/Desarrollo-basado-agentes
+	url = https://github.com/jseg380/Desarrollo-basado-agentes
+[submodule "2023-2024/semester-2/Sistemas-informacion-basados-web"]
+	path = 2023-2024/semester-2/Sistemas-informacion-basados-web
+	url = https://github.com/jseg380/Sistemas-informacion-basados-web
+[submodule "2024-2025/semester-1/dgp-mda-backend"]
+	path = 2024-2025/semester-1/dgp-mda-backend
+	url = https://github.com/jseg380/dgp-mda-backend
+[submodule "2024-2025/semester-1/dpg-mda-frontend"]
+	path = 2024-2025/semester-1/dpg-mda-frontend
+	url = https://github.com/jseg380/dpg-mda-frontend
